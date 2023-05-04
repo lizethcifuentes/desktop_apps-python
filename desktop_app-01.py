@@ -34,3 +34,5 @@ ventana_principal.config(bg="white")
 
 #run
 ventana_principal.mainloop()
+
+
